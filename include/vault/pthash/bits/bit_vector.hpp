@@ -3,7 +3,8 @@
 #include <cstddef>
 #include <vector>
 
-#include "essentials.hpp"
+#include <vault/pthash/essentials/essentials.hpp>
+
 #include "util.hpp"
 
 namespace bits {

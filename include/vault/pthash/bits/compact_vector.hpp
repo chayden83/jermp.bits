@@ -5,7 +5,7 @@
 #include <cstring>
 #include <iterator>
 
-#include "essentials.hpp"
+#include <vault/pthash/essentials/essentials.hpp>
 
 namespace bits {
 
