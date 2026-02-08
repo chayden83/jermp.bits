@@ -1,8 +1,11 @@
 #pragma once
 
-#include <bitset>
-
 #include "util.hpp"
+
+#include <iostream>
+#include <stdexcept>
+
+#include <vault/pthash/essentials/essentials.hpp>
 
 namespace bits {
 
